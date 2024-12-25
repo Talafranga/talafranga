@@ -1,6 +1,3 @@
-# 💫 About Me:
-I am a developer with a strong foundation in UI/UX design and web development, as well as creating apps using React Native and Flutter. <br>Although my professional experience is primarily in video editing, where I have honed my creativity and attention to detail, I am eager to apply these skills to software development. <br>My corporate background has instilled in me a professional approach to delivering high-quality work. <br>Additionally, I am studying Management Information Systems
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/talha-kaman/) 
